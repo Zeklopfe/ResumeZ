@@ -1,0 +1,49 @@
+body{
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: #d0d0d1;
+    background-color: #000000;
+}
+
+.card{
+    border: 1px solid #000000;
+    border-radius: 20px;
+    background-color: #151515;
+    opacity: 100%;
+    width: 370px;
+}
+
+#title{
+    padding-left: 17px;
+}
+
+#post{
+    padding-left: 30px;
+}
+
+#years{
+    padding-left: 46px;
+}
+
+#mhbbs{
+    padding-left: 114px;
+    height: 20px;
+}
+
+#hbbs{
+    height: 90px;
+}
+
+#wexp{
+    padding-left: 75px;
+}
+
+#exp{
+    height: 70px;
+    padding-left: 20px;
+}
+
+#work{
+    height: 155px;
+}
